@@ -105,10 +105,11 @@ CAPTIONS = [
 
 # --- SEO & Insta Hashtags for USA/Global ASMR ---
 # SEO Hashtags: Targeted for US Search & Discovery
-SEO_HASHTAGS = "#ASMR #SleepAid #Relaxation #Satisfying #Tingles #OddlySatisfying #StressRelief #DeepSleep #ASMRCommunity #Mindfulness #Sensory #USA #TrendingVideo #BrainMassage"
+SEO_HASHTAGS = "#motorcycle #bikerlife #bikelife #motovlog #twowheels #ridefree #openroad #highwayride #superbike #riderlife #bikeadventure #nightride #roadtrip #engine #throttle"
 
 # Insta SEO Hashtags: Top 5 Viral for Instagram Reels
-INSTA_SEO_HASHTAGS = "#asmrvideo #satisfyingvideo #reelsusa #asmrtingles #explorepage"
+INSTA_SEO_HASHTAGS = "#reels #viral #explorepage #instagood #trending"
+
 
 # 1. History load & 15 days clean-up
 history = {}
