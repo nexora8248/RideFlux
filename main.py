@@ -13,21 +13,38 @@ GITHUB_REPO = os.environ.get('GITHUB_REPOSITORY')
 VIDEOS_DIR = 'videos'
 HISTORY_FILE = 'history.json'
 
-# --- ASMR USA Targeted Data Pool (50+ Titles & Captions) ---
+# --- Motorcycle Riding SEO Data Pool (50+ Titles) ---
 TITLES = [
-    "Relaxing ASMR Tingles", "Deep Sleep Triggers", "Satisfying Slime Sounds", "Ultra Quiet Whispers",
-    "Brain Melting ASMR", "The Ultimate Relaxation", "Crushing Soft Things", "ASMR for Anxiety Relief",
-    "No Talking Just Tingles", "Oddly Satisfying ASMR", "Visual Triggers for Sleep", "Fast & Aggressive ASMR",
-    "Soap Carving Therapy", "Kinetic Sand Cutting", "Tingly Ear Massage", "Intense Mouth Sounds",
-    "Gentle Tapping & Scratching", "Water Droplet Sounds", "ASMR Cooking Sounds", "Microphone Brushing",
-    "Page Turning Softly", "Keyboard Typing ASMR", "Ice Crushing Sounds", "Wood Fire Crackling",
-    "Rainy Night Relaxation", "Stress Relief ASMR", "Sleep Induction Sounds", "Hand Movements ASMR",
-    "Personal Attention ASMR", "Meditation & Tingles", "Nature ASMR Therapy", "Soft Foam Squishing",
-    "Brush Sounds on Mic", "Deep Relaxation Journey", "ASMR for Deep Focus", "Hypnotic ASMR Visuals",
-    "Lofi ASMR Vibes", "Tingly Scalp Massage", "Calming Fabric Sounds", "Satisfying Crunchy ASMR",
-    "ASMR Magic for Sleep", "Instant Tingle Fix", "Whispered Bedtime Stories", "Binaural Beats ASMR",
-    "Wooden Toy Sounds", "Paper Crinkling ASMR", "Fluffy Mic Triggers", "ASMR Glow Therapy"
+    "Epic Motorcycle Ride Adventure Vlog", "Ultimate Bike Riding Experience 4K",
+    "Solo Motorcycle Road Trip Journey", "Night Highway Bike Ride Cinematic",
+    "High Speed Motorcycle Riding POV", "Best Bike Ride Moments Compilation",
+    "Freedom on Two Wheels Ride Video", "Long Drive Motorcycle Vibes",
+    "City Night Motorcycle Run", "Extreme Bike Riding Skills",
+    "Open Road Motorcycle Adventure", "Fast Lane Bike Ride Story",
+    "Powerful Engine Sound Ride", "Urban Motorcycle Rider Life",
+    "Dream Bike Long Ride Journey", "Street Racing Style Bike Ride",
+    "Full Throttle Motorcycle Run", "Adventure Bike Travel Vlog",
+    "Smooth Highway Motorcycle Cruise", "Legendary Rider Bike Moments",
+    "Fearless Motorcycle Road Run", "Two Wheels Travel Experience",
+    "Bike Life Cinematic Ride", "Endless Road Motorcycle Trip",
+    "Speed and Freedom Bike Ride", "Epic Night Motorcycle Journey",
+    "Professional Bike Riding Skills", "Wild Road Motorcycle Adventure",
+    "Daily Rider Motorcycle Vlog", "Next Level Bike Ride Experience",
+    "Highway King Motorcycle Ride", "Super Fast Bike POV Ride",
+    "Real Rider Road Story", "Mountain Road Motorcycle Ride",
+    "Desert Highway Bike Adventure", "Ultimate Rider Lifestyle Video",
+    "Extreme Speed Motorcycle POV", "City Traffic Bike Riding Skills",
+    "Dream Ride Motorcycle Journey", "Sunset Highway Bike Ride",
+    "Power Bike Engine Sound Ride", "Travel With Motorcycle Vlog",
+    "Ultimate Road King Ride", "Bike Rider Cinematic Shots",
+    "Unlimited Freedom Bike Life", "Night City Bike Cruise",
+    "Adventure Seeker Motorcycle Ride", "Long Distance Bike Travel",
+    "Rider Passion Motorcycle Vlog", "Epic Two Wheel Freedom Ride",
+    "Smooth & Silent Bike Journey", "Superbike Road Trip Experience",
+    "Professional Rider POV Ride", "Fast & Furious Style Bike Run",
+    "Daily Motorcycle Ride Routine"
 ]
+
 
 # --- Motorcycle Riding SEO Captions Data Pool ---
 CAPTIONS = [
